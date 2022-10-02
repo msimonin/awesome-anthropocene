@@ -27,6 +27,11 @@ Some file are annexed (shown with 🗃️), but you should be able to click on t
 - 🇫🇷 [Écologie, progrès et décroissance : Arthur Keller et Aurélien Barrau.](https://www.youtube.com/watch?v=EYGvfGyqDDY)
 
 
+# Outreach
+
+- 🇫🇷 [Atelier 2 tonnes](https://www.2tonnes.org/)
+
+
 # Usage of this repo
 
 The required deps using guix look like:
