@@ -1,23 +1,27 @@
-A not curated list of awesome anthropocene facts, impact, study ... before the collapse.
+A not curated list of awesome anthropocene facts, impact, study ... before the
+collapse.
+
+Some file (marked with 🗃️) are expected to be big so `git-annex` is used for
+that (this doesn't store the file, only a link to a file somewhere in the
+internet).
 
 # Technology
 
 - Sabine Hossenfelder: [Flying green](http://backreaction.blogspot.com/2022/10/can-we-make-flying-green.html)
-    + related papers: [Electric Flight – Potential and Limitations](https://www.mh-aerotools.de/company/paper_14/MP-AVT-209-09.pdf)
+    + 🗃️ related papers: [Electric Flight – Potential and Limitations](https://www.mh-aerotools.de/company/paper_14/MP-AVT-209-09.pdf)
 
 
 # People
 
+- (FR)[Romain Couillet](http://polaris.imag.fr/romain.couillet)
 
-# (FR)
 
-- Research strategy: [sciences citoyennes](https://sciencescitoyennes.org/)
-- [Romain Couillet](http://polaris.imag.fr/romain.couillet)
+# Research directions
 
+- 🇫🇷 [sciences citoyennes](https://sciencescitoyennes.org/)
+- 🇫🇷 🗃️ [Petit manuel du déraillement](http://polaris.imag.fr/romain.couillet/docs/articles/TS_diplomatie.pdf)
 
 # Usage of this repo
-
-Some of the content is pushed as an git-annex so you'll need git-annex installed.
 
 The required deps using guix look like:
 ```bash
