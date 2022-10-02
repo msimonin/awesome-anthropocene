@@ -21,6 +21,11 @@ internet).
 - 🇫🇷 [sciences citoyennes](https://sciencescitoyennes.org/)
 - 🇫🇷 🗃️ [Petit manuel du déraillement](http://polaris.imag.fr/romain.couillet/docs/articles/TS_diplomatie.pdf)
 
+# Misc
+
+- [Ralentir ou périr: à quoi ressemblerait une société post-croissance](https://www.youtube.com/watch?v=bcSvhhOOiug)
+
+
 # Usage of this repo
 
 The required deps using guix look like:
