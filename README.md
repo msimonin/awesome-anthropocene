@@ -12,6 +12,11 @@ Some file are annexed (shown with 🗃️), but you should be able to click on t
 
 - [Collapse of complexe societies(yt playlist)](https://www.youtube.com/watch?v=ddmQhIiVM48&list=PL7D613ABAE66E3452) [book](https://archive.org/details/TheCollapseOfComplexSocieties)
 
+
+# Growth / Degrowth
+
+TODO
+
 # Misc papers
 
 - ️🗃️ [The climate mitigation gap: education and government recommendations miss the most effective individual actions](https://iopscience.iop.org/article/10.1088/1748-9326/aa7541/pdf)
