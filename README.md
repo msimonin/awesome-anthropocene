@@ -17,6 +17,10 @@ Some file are annexed (shown with 🗃️), but you should be able to click on t
 
 TODO
 
+# Low-tech
+
+TODO
+
 # Misc papers
 
 - ️🗃️ [The climate mitigation gap: education and government recommendations miss the most effective individual actions](https://iopscience.iop.org/article/10.1088/1748-9326/aa7541/pdf)
