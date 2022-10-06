@@ -1,7 +1,7 @@
 A not curated list of awesome anthropocene facts, impact, study ... before the
 collapse.
 
-Some files are annexed (shown with 🗃️), but you should be able to click on the links on this file anyway.
+Some files are annexed (shown with 🗃️), but you should be able to click on the links anyway.
 
 # Technology
 
