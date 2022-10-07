@@ -15,7 +15,6 @@ Some files are annexed (shown with 🗃️), but you should be able to click on 
 
 # Growth / Degrowth
 
-TODO
 
 # Low-tech
 
@@ -32,8 +31,10 @@ TODO
 
 # Misc
 
-- 🇫🇷 [Ralentir ou périr: à quoi ressemblerait une société post-croissance](https://www.youtube.com/watch?v=bcSvhhOOiug)
-- 🇫🇷 [Écologie, progrès et décroissance : Arthur Keller et Aurélien Barrau.](https://www.youtube.com/watch?v=EYGvfGyqDDY)
+- 🇫🇷 [la troisième voie du vivant](https://www.youtube.com/watch?v=3FdnUmaWgvs) -- Olivier Hamant
+- 🇫🇷 [politiques de l'Anthropocene](https://www.pressesdesciencespo.fr/FR/book/?GCOI=27246100080310) -- collectif Agnès Sinaï, Mathilde Szuba
+- 🇫🇷 [Ralentir ou périr: à quoi ressemblerait une société post-croissance](https://www.youtube.com/watch?v=bcSvhhOOiug) -- itw Timothée Parrique
+- 🇫🇷 [Écologie, progrès et décroissance : Arthur Keller et Aurélien Barrau.](https://www.youtube.com/watch?v=EYGvfGyqDDY) 
 
 
 # Outreach
