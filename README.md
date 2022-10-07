@@ -10,7 +10,7 @@ Some files are annexed (shown with 🗃️), but you should be able to click on 
 
 # Collapse
 
-- [Collapse of complexe societies(yt playlist)](https://www.youtube.com/watch?v=ddmQhIiVM48&list=PL7D613ABAE66E3452) [book](https://archive.org/details/TheCollapseOfComplexSocieties)
+- [Collapse of complexe societies(yt playlist)](https://www.youtube.com/watch?v=ddmQhIiVM48&list=PL7D613ABAE66E3452) / [book](https://archive.org/details/TheCollapseOfComplexSocieties)
 
 
 # Growth / Degrowth
