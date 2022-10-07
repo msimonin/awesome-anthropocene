@@ -3,10 +3,7 @@ collapse.
 
 Some files are annexed (shown with 🗃️), but you should be able to click on the links anyway.
 
-# Technology
 
-- Sabine Hossenfelder: [Flying green](http://backreaction.blogspot.com/2022/10/can-we-make-flying-green.html)
-    + 🗃️ related papers: [Electric Flight – Potential and Limitations](https://www.mh-aerotools.de/company/paper_14/MP-AVT-209-09.pdf)
 
 # Collapse
 
@@ -41,6 +38,10 @@ TODO
 
 - 🇫🇷 [Atelier 2 tonnes](https://www.2tonnes.org/)
 
+# Technology
+
+- Sabine Hossenfelder: [Flying green](http://backreaction.blogspot.com/2022/10/can-we-make-flying-green.html)
+    + 🗃️ related papers: [Electric Flight – Potential and Limitations](https://www.mh-aerotools.de/company/paper_14/MP-AVT-209-09.pdf)
 
 # Usage of this repo
 
